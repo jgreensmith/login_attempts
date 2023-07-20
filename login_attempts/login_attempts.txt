@@ -3,5 +3,4 @@
 127.0.0.1 thanos1 Successful login
 127.0.0.1  Failed login attempt
 127.0.0.1 asdf Failed login attempt
-127.0.0.1 asdf[As Failed login attempt
 127.0.0.1 sdfsdf Failed login attempt
